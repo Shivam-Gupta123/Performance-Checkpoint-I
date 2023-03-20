@@ -1,5 +1,7 @@
 **Performance Check #1:**
 
+For this Checkpoint the robot needed to: start moving upon the start light turning on, go up the ramp, touch the kiosk, and go back down the ramp for extra credit.
+
 Our design met all the specifications of the performance checkpoint. Our robot successfully started when the right light came on, moved forward, went up the ramp, and then touched the kiosk. Unfortunately, the robot didn’t go back down the ramp for the extra credit points.
 
 Despite the successful completion of Checkpoint 1, our robot did not work as we expected to at all. During the completion of the course, the robot was very erratic, was zigzagging up the ramp, was turning to angles that weren’t accounted for, but the robot still somehow completed Checkpoint 1. We expected the robot to work normally, meaning that setting both the left and right motor to equal positive percents would cause the robot to move forward straight. But what happened was that the robot was erratically turning even when we set the motors to equal positive percents, which caused a lot of problems. To overcome this obstacle, we had to do a lot of testing to equalize the movement of the motors.
